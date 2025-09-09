@@ -84,9 +84,9 @@ Required packages:
 
 ### Output Data Structure
 The application maintains a hierarchical data structure:
-```python
+
 Data['Core levels'][sheet_name]['Fitting']['Peaks']['D-parameter']
-```
+
 
 Contains:
 - Position (center point)
