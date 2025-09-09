@@ -1,6 +1,3 @@
-Here's the README.md with proper markdown formatting:
-
-```markdown
 # D-Parameter Measurement Tool
 
 ## Overview
